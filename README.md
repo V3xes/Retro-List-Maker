@@ -6,17 +6,16 @@ A simple and nostalgic Birthday and Christmas list maker app with a retro aesthe
 
 ## 🖼️ Screenshots
 
-<!-- Replace these image links with your own screenshots -->
-![Main Screen](./path/to/screenshot1.png)  
+![Main Screen](./Images/bytepad-UI.PNG)  
 *Main interface with retro style UI.*
 
-![Adding Items](./path/to/screenshot2.png)  
+![Adding Items](./Images/bytepad-add.PNG)  
 *Add new gift items to your list easily.*
 
-![Change Lists](./path/to/screenshot3.png)  
+![Change Lists](./Images/change-bytepad.PNG)  
 *Switch between different lists for birthdays, Christmas, and more.*
 
-![Export / Save](./path/to/screenshot4.png)  
+![Export / Save](./Images/export-bytepad.PNG)  
 *Export or save your lists, with a total cost summary to keep track of your budget.*
 
 ---
